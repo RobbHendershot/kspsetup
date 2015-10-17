@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Kerbal Space Program
+Comment=Kerbal Space Program
+Exec=/opt/KSP_linux/KSP.x86_64 --stand-alone
+Icon=/opt/KSP_linux/KSP_Data/Resources/UnityPlayer.png
+Terminal=false
+Categories=Game;

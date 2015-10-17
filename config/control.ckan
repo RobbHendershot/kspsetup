@@ -1,0 +1,29 @@
+{
+	"kind": "metapackage",
+	"abstract": "Mods used for external control.",
+	"name": "control",
+	"license": "unknown",
+	"version": "2015.09.13.08.48.11",
+	"identifier": "control",
+	"spec_version": "v1.6",
+	"depends": [
+		{
+			"name": "kOS"
+		},
+		{
+			"name": "Telemachus"
+		},
+		{
+			"name": "Chatterer"
+		},
+		{
+			"name": "ConnectedLivingSpace"
+		},
+		{
+			"name": "EditorExtensions"
+		},
+		{
+			"name": "QuickSearch"
+		}
+	] 	 
+}

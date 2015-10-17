@@ -1,0 +1,80 @@
+{
+	"kind": "metapackage",
+	"abstract": "Parts mods.",
+	"name": "parts",
+	"license": "unknown",
+	"version": "2015.09.13.08.48.11",
+	"identifier": "parts",
+	"spec_version": "v1.6",
+	"depends": [
+		{
+			"name": "ProceduralFairings"
+		},
+		{
+			"name": "ProceduralParts"
+		},
+		{
+			"name": "surfacelights"
+		},
+		{
+			"name": "ModularFuelTanks"
+		},
+		{
+			"name": "NearFutureConstruction"
+		},
+		{
+			"name": "UKS"
+		},
+		{
+			"name": "AviationLights"
+		},
+		{
+			"name": "RLA-Stockalike"
+		},
+				{		
+			"name": "CustomClusters"
+		},
+		{		
+			"name": "EngineLighting"
+		},
+		{		
+			"name": "EnginesPlus"
+		},
+		{		
+			"name": "ETT"
+		},
+		{		
+			"name": "InstellIncorporatedExperimentalEngines"
+		},
+		{		
+			"name": "SolverEngines"
+		},
+		{		
+			"name": "SovietEngines"
+		},
+		{		
+			"name": "VanguardAstrodynamicsVXSeries"
+		},
+		{
+			"name": "NearFutureSpacecraft"
+		},
+		{
+			"name": "NearFutureSolar"
+		},
+		{
+			"name": "NearFuturePropulsion"
+		},
+		{
+			"name": "StationPartsExpansion"
+		},
+		{
+			"name": "ModularRocketSystem"
+		},
+		{
+			"name": "AIESAerospace-Unofficial"
+		},
+	] 	 
+}
+
+
+

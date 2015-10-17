@@ -1,0 +1,26 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of what I consider to be the basic mods.",
+	"name": "basic",
+	"license": "unknown",
+	"version": "2015.09.13.08.48.11",
+	"identifier": "basic",
+	"spec_version": "v1.6",
+	"depends": [
+		{
+			"name": "MechJeb2"
+		},
+		{
+			"name": "MechJebForAll"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "QuickSearch"
+		}
+	] 	 
+}
+
+
+

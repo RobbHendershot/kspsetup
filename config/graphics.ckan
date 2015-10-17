@@ -1,0 +1,44 @@
+{
+	"kind": "metapackage",
+	"abstract": "A collection of basic graphics modules.",
+	"name": "graphics",
+	"license": "unknown",
+	"version": "2015.09.13.08.48.11",
+	"identifier": "graphics",	
+	"spec_version": "v1.6",
+	"depends": [
+		{
+			"name": "PlanetShine"
+		},
+		{
+			"name": "AstronomersPack-PlanetShine"
+		},
+		{
+			 "name": "DistantObject"
+		},
+		{
+			"name": "DistantObject-default"
+		},
+		{
+			"name": "CollisionFX"
+		},
+		{
+			"name": "EngineLighting"
+		},
+		{
+			"name": "HotRockets"
+		},
+		{
+			"name": "SmokeScreen"
+		},
+		{
+			"name": "VenStockRevamp"
+		},
+		{
+			"name": "ActiveTextureManagement-x86-Basic"
+		},
+		{
+			"name": "CollisionFX"
+		}
+	]
+}

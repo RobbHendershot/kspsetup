@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ins",
+				"install_mod"
+			],
+			[
+				"print",
+				"print_head"
+			],
+			[
+				"in",
+				"installDir"
+			],
+			[
+				"Col",
+				"ColorWallForm"
+			],
+			[
+				"col",
+				"colorWallForm"
+			],
+			[
+				"Co",
+				"ColorWallForm"
+			],
+			[
+				"att",
+				"attachSoundToObject	function"
+			],
+			[
+				"direct",
+				"DirectObject	module"
+			],
+			[
+				"camera",
+				"cameraZoom"
+			],
+			[
+				"cam",
+				"camera"
+			],
+			[
+				"camer",
+				"camera"
+			],
+			[
+				"m",
+				"moveForward	function"
+			],
+			[
+				"dir",
+				"dirNode	statement"
+			],
+			[
+				"di",
+				"dirNode	statement"
+			],
+			[
+				"VB",
+				"VBase4	class"
+			],
+			[
+				"d",
+				"dirNode	statement"
+			],
+			[
+				"c",
+				"cam"
+			],
+			[
+				"pl",
+				"playerShipNode	statement"
+			],
+			[
+				"Star",
+				"StarShip"
+			],
+			[
+				"cre",
+				"createSkySphere"
+			],
+			[
+				"sk",
+				"skySphere"
+			],
+			[
+				"MW",
+				"MWorldPosition	instance"
+			],
+			[
+				"load",
+				"loadModel"
+			],
+			[
+				"s",
+				"setTexture"
+			],
+			[
+				"re",
+				"render	statement"
+			],
+			[
+				"loa",
+				"loadModel	function"
+			],
+			[
+				"back",
+				"backNode	statement"
+			],
+			[
+				"lo",
+				"lookAt"
+			],
+			[
+				"sun",
+				"sunIllumination	statement"
+			],
+			[
+				"Di",
+				"DirectionalLight	class"
+			],
+			[
+				"play",
+				"playerShip	statement"
+			],
+			[
+				"setTe",
+				"sunTexture"
+			],
+			[
+				"pla",
+				"playerShip"
+			],
+			[
+				"amb",
+				"ambNode"
+			],
+			[
+				"pan",
+				"pandaActor	statement"
+			],
+			[
+				"sptL",
+				"sptLight	statement"
+			],
+			[
+				"setSha",
+				"setShadowCaster"
+			],
+			[
+				"ambL",
+				"ambLight	statement"
+			],
+			[
+				"am",
+				"ambLight	statement"
+			],
+			[
+				"sfx",
+				"sfxManagerList	statement"
+			],
+			[
+				"pand",
+				"pandaActor	statement"
+			],
+			[
+				"Ve",
+				"Vec3	class"
+			],
+			[
+				"g",
+				"get"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"Sou",
+				"soundbyte	statement"
+			],
+			[
+				"Tk",
+				"Tkinter	module"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/rdhender/workspace/KSPSetup/config/test_install.py",
+			"settings":
+			{
+				"buffer_size": 612,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "package in",
+		"selected_items":
+		[
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"coor",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"lint",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"anaconda lin",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"an disab",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/rdhender/KSPSetup",
+		"/home/rdhender/KSPSetup/config",
+		"/home/rdhender/KSPSetup/files"
+	],
+	"file_history":
+	[
+		"/home/rdhender/KSPSetup/KSPSetup.sh",
+		"/home/rdhender/KSPSetup/config/control.ckan",
+		"/home/rdhender/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/rdhender/KSPSetup/config/parts.ckan",
+		"/home/rdhender/workspace/KSPSetup/config/installer_config.cnf",
+		"/home/rdhender/workspace/KSPSetup/KSPSetup.py",
+		"/home/rdhender/KSPSetup/config/basic.ckan",
+		"/home/rdhender/KSPSetup/config/graphics.ckan",
+		"/home/rdhender/.zshrc",
+		"/home/rdhender/KSPSetup/.zshrc",
+		"/home/rdhender/python_project_creation.rst",
+		"/home/rdhender/workspace/KSPSetup/main.py",
+		"/home/rdhender/KSPSetup/config/ksprc-setup.ckan",
+		"/home/rdhender/KSPSetup/config/robbs-mods.ckan",
+		"/home/rdhender/old.zshrc",
+		"/home/rdhender/KSPSetup/config/basic.ckan.bu",
+		"/home/rdhender/workspace/ksp_setup/main.py",
+		"/home/rdhender/workspace/hack_the_space/hack_the_space.py",
+		"/home/rdhender/workspace/hack_the_space/config.py",
+		"/home/rdhender/workspace/hack_the_space/forms.py",
+		"/home/rdhender/workspace/hack_the_space/templates/base.html",
+		"/home/rdhender/workspace/hack_the_space/templates/index.html",
+		"/home/rdhender/workspace/hack_the_space/templates/colorwall.html",
+		"/home/rdhender/workspace/hack_the_space/templates/404.html",
+		"/home/rdhender/workspace/hack_the_space/templates/500.html",
+		"/home/rdhender/workspace/flack_lab/templates/user.html",
+		"/home/rdhender/workspace/flack_lab/templates/base.html",
+		"/home/rdhender/workspace/flack_lab/flask_lab.py",
+		"/home/rdhender/workspace/hack_the_space/templates/user.html",
+		"/home/rdhender/.config/sublime-text-3/Packages/User/HTML.sublime-settings",
+		"/home/rdhender/workspace/openpixelcontrol/python_clients/random_pattern.py",
+		"/home/rdhender/workspace/openpixelcontrol/python_clients/red_alert.py",
+		"/home/rdhender/workspace/panda_play/src/Application.py",
+		"/home/rdhender/workspace/fleet/src/Starship.py",
+		"/home/rdhender/workspace/fleet/src/StarSystem.py",
+		"/home/rdhender/workspace/fleet/src/main.py",
+		"/home/rdhender/workspace/fleet/src/Application.py",
+		"/home/rdhender/workspace/fleet/fleet.sublime-project",
+		"/home/rdhender/workspace/fleet/src/StarShip.py",
+		"/home/rdhender/workspace/fleet/src/application.py",
+		"/home/rdhender/workspace/fleet/src/starsystem.py",
+		"/home/rdhender/workspace/panda_play/src/main.py",
+		"/home/rdhender/workspace/panda_play/src/SolarSystem.py",
+		"/home/rdhender/workspace/panda_play/main.py",
+		"/home/rdhender/workspace/panda_play/Application.py",
+		"/home/rdhender/panel_questions.rst",
+		"/home/rdhender/workspace/MakerFaire/AppForThat/index.rst",
+		"/home/rdhender/MakerPanelQuestions.rst",
+		"/home/rdhender/workspace/soundboard/main.py",
+		"/home/rdhender/workspace/soundboard/soundboard.kv",
+		"/home/rdhender/workspace/panda_play/test.kv",
+		"/home/rdhender/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/rdhender/workspace/TanandaOS/tananda-workstation-packages.ks",
+		"/home/rdhender/workspace/artemis/soundboard/soundboard.py",
+		"/home/rdhender/workspace/soundboard/soundboard.ky",
+		"/home/rdhender/workspace/artemis/soundboard/lib/soundbyte.py",
+		"/home/rdhender/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/rdhender/workspace/artimis/soundboard/soundboard.ini",
+		"/home/rdhender/workspace/artimis/soundboard/soundboard.sublime-project"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sudo ",
+			"ksp_linux",
+			" = ",
+			" )",
+			"( ",
+			" )",
+			"( ",
+			" )",
+			"( ",
+			"end block",
+			"setkey",
+			"node",
+			"reparentto",
+			"AttachNewNode",
+			"panda",
+			"id ",
+			"* ",
+			"syntax",
+			"text",
+			"self.",
+			"play.",
+			" = ",
+			"file",
+			"default_",
+			"pack"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"=",
+			")",
+			"(",
+			")",
+			"(",
+			")",
+			"(",
+			"endblock",
+			"",
+			"=",
+			"sound_file",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/rdhender/workspace/KSPSetup/config/test_install.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 612,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								612,
+								612
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "kspsetup.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
